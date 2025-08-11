@@ -22,7 +22,7 @@ Deep models (as implemented) are not yet competitive; they likely need longer co
 - Forecast covariate: **temperature for 2010‑02‑21** (96 rows).
 - Place the Excel file in `data/` and update the `data_path` at the top of the Rmd, e.g.:
   ```r
-  data_path <- "2023-11-Elec-train.xlsx"  # or your actual file name
+  data_path <- "2025-06-Elec-train.xlsx"
   ```
 
 ## Repro steps
